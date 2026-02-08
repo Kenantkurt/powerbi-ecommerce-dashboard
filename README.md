@@ -9,6 +9,18 @@
 - 💡 Actionable **business insights and recommendations**
 - 🛠 Built entirely in **Power BI** with structured data modeling and Git LFS version control
 
+## 📸 Dashboard Screenshots
+
+### Sales Performance Overview
+![Sales Overview](screenshots/overview.png)
+
+### Sales Trends Over Time
+![Sales Trends](screenshots/sales_trends.png)
+
+### Category & Product Performance
+![Category Performance](screenshots/category_performance.png)
+
+
 ---
 
 ## 📊 Project Overview
