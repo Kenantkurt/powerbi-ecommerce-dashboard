@@ -33,6 +33,14 @@ The dashboard provides:
 - Category and product-level comparisons
 - Data-driven insights to support business decisions
 
+## 🗂 Data Pipeline Overview
+
+- Raw data was initially loaded and explored in **Google BigQuery**
+- Multiple raw SQL tables were consolidated and validated
+- Data was then connected directly from BigQuery to **Power BI**
+- Final data cleaning, transformations, and calculations were performed in Power BI
+
+
 ---
 
 ## 🔢 Key Metrics (KPIs)
